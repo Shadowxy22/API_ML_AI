@@ -62,10 +62,12 @@ PRD3.核心价值与用户痛点 3%
 ## 原型 20%
 #### 原型1.交互及界面设计 5%
 交互及界面设计：在PRD文件中是否有说明且原型是否有做到：交互及界面设计的某个核心交互环节使用了人工智能的加值
-![原型架构图.jpg](https://upload-images.jianshu.io/upload_images/9513869-321cd2794413030e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![dd5409497107010ea9fd84b9635f643.png](https://upload-images.jianshu.io/upload_images/9513869-a87ddb75f114229b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![626f7a67c264b845e6fbc5b29dbdf72.png](https://upload-images.jianshu.io/upload_images/9513869-3890e71b7ffc5fba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  ![a41f6e3e7be676e2cc079b5dac3a65d.png](https://upload-images.jianshu.io/upload_images/9513869-bd21ca13a9a41875.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 #### 原型2.信息设计 5%
 信息设计：在PRD文件中是否有说明且原型是否有做到：信息设计的某个核心信息或设计使用了人工智能的加值
+![产品架构.png](https://upload-images.jianshu.io/upload_images/9513869-727b4e20d7944e5b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 原型3.原型文档 5%
 原型文档：多少程度上有提供MVP可交互的原型文档，供它人在Github上下载使用
