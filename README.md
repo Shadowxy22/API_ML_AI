@@ -62,9 +62,13 @@ PRD3.核心价值与用户痛点 3%
 ## 原型 20%
 #### 原型1.交互及界面设计 5%
 交互及界面设计：在PRD文件中是否有说明且原型是否有做到：交互及界面设计的某个核心交互环节使用了人工智能的加值
-![dd5409497107010ea9fd84b9635f643.png](https://upload-images.jianshu.io/upload_images/9513869-a87ddb75f114229b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
-![626f7a67c264b845e6fbc5b29dbdf72.png](https://upload-images.jianshu.io/upload_images/9513869-3890e71b7ffc5fba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
-![a41f6e3e7be676e2cc079b5dac3a65d.png](https://upload-images.jianshu.io/upload_images/9513869-bd21ca13a9a41875.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![dd5409497107010ea9fd84b9635f643.png](https://upload-images.jianshu.io/upload_images/9513869-a87ddb75f114229b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  ![626f7a67c264b845e6fbc5b29dbdf72.png](https://upload-images.jianshu.io/upload_images/9513869-3890e71b7ffc5fba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  ![a41f6e3e7be676e2cc079b5dac3a65d.png](https://upload-images.jianshu.io/upload_images/9513869-bd21ca13a9a41875.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![65b28dc38e6d97dcded4f5b1de8df0e.png](https://upload-images.jianshu.io/upload_images/9513869-26f73662111337ce.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![fead8a08f2ba8c47bf137a08d7ba048.png](https://upload-images.jianshu.io/upload_images/9513869-777193cebc13098c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![71a7314e300db59c34034c6b66896a5.png](https://upload-images.jianshu.io/upload_images/9513869-ad1404e6bdbc0992.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
+
+![1da292661b7f1853116149a4d423de3.png](https://upload-images.jianshu.io/upload_images/9513869-821c9fb6bf7d26bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 
 
 #### 原型2.信息设计 5%
