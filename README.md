@@ -51,8 +51,6 @@ PRD3.核心价值与用户痛点 3%
 - 图像分析技术：可以识别出图片中的多个商品，并给出商品的品类、坐标，可以进行商品聚类、相似商品推荐，实现个性化广告展示，提高购买转化。
 
 #### PRD5.需求列表与人工智能API加值 3%
-需求列表：使用人工智能的加值是否反映到需求列表（核心功能的排序上）且PRD列出明显有可行及可用的API
-
   #|用户案例|重要性|技术
 ---|:------:|:-----|:-------
 1|用户正在网上某购物平台挑选口红，但很苦恼不知道试在自己嘴上是什么效果|极其重要|人脸识别api和人脸试妆api
@@ -62,7 +60,6 @@ PRD3.核心价值与用户痛点 3%
 
 ## 原型 20%
 #### 原型1.交互及界面设计 5%
-交互及界面设计：在PRD文件中是否有说明且原型是否有做到：交互及界面设计的某个核心交互环节使用了人工智能的加值
 ![dd5409497107010ea9fd84b9635f643.png](https://upload-images.jianshu.io/upload_images/9513869-a87ddb75f114229b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  ![626f7a67c264b845e6fbc5b29dbdf72.png](https://upload-images.jianshu.io/upload_images/9513869-3890e71b7ffc5fba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  ![a41f6e3e7be676e2cc079b5dac3a65d.png](https://upload-images.jianshu.io/upload_images/9513869-bd21ca13a9a41875.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![65b28dc38e6d97dcded4f5b1de8df0e.png](https://upload-images.jianshu.io/upload_images/9513869-26f73662111337ce.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![fead8a08f2ba8c47bf137a08d7ba048.png](https://upload-images.jianshu.io/upload_images/9513869-777193cebc13098c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![71a7314e300db59c34034c6b66896a5.png](https://upload-images.jianshu.io/upload_images/9513869-ad1404e6bdbc0992.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
@@ -73,7 +70,7 @@ PRD3.核心价值与用户痛点 3%
 
 
 #### 原型2.信息设计 5%
-信息设计：在PRD文件中是否有说明且原型是否有做到：信息设计的某个核心信息或设计使用了人工智能的加值
+信息设计
 ![产品架构.png](https://upload-images.jianshu.io/upload_images/9513869-727b4e20d7944e5b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 原型3.原型文档 5%
@@ -88,7 +85,6 @@ PRD3.核心价值与用户痛点 3%
 
 ### API 产品使用关键AI或机器学习之API的输出入展示 15%
 #### API1.使用水平 5%
-使用水平：在PRD文件中是否有说明且展示，核心功能所应用的API之输入及输出
 - 输入
 **示例1 调用返回成功（使用RGBA指定唇色）**
 ```
@@ -128,7 +124,6 @@ https://fmu.tencentcloudapi.com/?Action=TryLipstickPic
 ```
 
 #### API2.使用比较分析 5%
-使用比较分析：在PRD文件中是否有说明且提供连结证据，所使用的API是查找过最适用的（主要竞争者无或比较次），如考量其成熟度丶性价比丶等等
 **性价比**
 
 腾讯云
@@ -137,7 +132,7 @@ https://fmu.tencentcloudapi.com/?Action=TryLipstickPic
 
 ![e6224751ed2a8e4822fbbc85c62c80d.png](https://upload-images.jianshu.io/upload_images/9513869-9f6bfd84f959720e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![4a0be95fef40e1e85e5269d18e2907d.png](https://upload-images.jianshu.io/upload_images/9513869-608ebba1e96208c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+---
 百度ai
 ![7203559626cf78daec468f8de457d92.png](https://upload-images.jianshu.io/upload_images/9513869-df91bda51af4b12b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![0dcbd8416e99a458ed55c57203ea5fd.png](https://upload-images.jianshu.io/upload_images/9513869-2f0216bbf560a783.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -152,14 +147,13 @@ https://fmu.tencentcloudapi.com/?Action=TryLipstickPic
 成熟度|腾讯云人脸比对在2017年的LFW测评准确度高达99.80%，识别准确率业界领先|人脸识别算法在最权威的公开评测比赛中排名世界领先
 
 #### API3.使用后风险报告 5%
-使用后风险报告：在PRD文件中是否有说明且提供连结证据，所使用的API类别的现在及未来发展性，如API市场竞争程度丶输入输出限制丶定价丶及可替代的程序库（改用自己开发的代码及数据库而不用API）等等
-
-- 通过测试腾讯云的人脸识别技术达到99.80%，而百度ai达到96.20%;腾讯云每月每种服务均有10000次的免费调用额度，而百度ai该接口仅提供累计500次免费调用量，免费额度用尽后开始计费。
-
+- 成熟度：通过测试腾讯云的人脸识别技术达到99.80%，且已经推出相关人脸试妆api产品在市面（微信小程序）；而百度ai目前只达到普通美颜相机有的功能
+- 价格：腾讯云每月每种服务均有10000次的免费调用额度，而百度ai该接口仅提供累计500次免费调用量，免费额度用尽后开始计费。
+- 准确度：腾讯云基于精细标注训练数据实现的照片人脸90点定位，提供追踪成功、失败检测机制，置信度高达99%。；目前仅在人脸识别和人脸融合有相应技术，并未有美妆试色功能
 
 
 **人工智能概率性**
 - 腾讯云的人脸识别具备高并发、高吞吐、低时延等特点，即使是百万规模人脸搜索，仍只需数百毫秒即可处理完毕，满足您的实时使用需求。五官定位技术可以精准定位五官的位置，实现人脸美颜美妆、人脸换脸、人脸贴纸等。 
+- 腾讯云神图·人脸试妆（FaceMakeup）基于腾讯优图领先的人脸识别算法，提供包括试唇色、测肤质、试妆容等多种功能，只需上传图片即可在线试妆，为开发者和企业提供高可用的人脸试妆服务。可应用于社交传播、营销推广等多种场景，满足用户的人脸试妆和人脸娱乐相关需求。 
 - 腾讯云的人脸融合技术与优图实验室、天天P图联合打造的 AI 变脸玩法。通过快速精准地定位人脸关键点，将用户上传的照片与特定形象进行面部层面融合，使生成的图片同时具备用户与特定形象的外貌特征，支持单脸、多脸、选脸融合，满足不同的营销活动需求
-#### API4.加分项 3%
-使用复杂度：用了2个以上机器学习与人工智能的API之输入及输出
+
