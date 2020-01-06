@@ -77,8 +77,8 @@ PRD3.核心价值与用户痛点 3%
 ![产品架构.png](https://upload-images.jianshu.io/upload_images/9513869-727b4e20d7944e5b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 原型3.原型文档 5%
-[口红试色app原型](http://nfunm085.gitee.io/api_axure)
-[口红试色app原型下载](https://gitee.com/NFUNM085/api_axure)
+- [口红试色app原型](http://nfunm085.gitee.io/api_axure)
+- [口红试色app原型下载](https://gitee.com/NFUNM085/api_axure)
 
 #### 原型4.口头操作说明 5%
 
@@ -90,7 +90,7 @@ PRD3.核心价值与用户痛点 3%
 #### API1.使用水平 5%
 使用水平：在PRD文件中是否有说明且展示，核心功能所应用的API之输入及输出
 - 输入
-- 示例1 调用返回成功（使用RGBA指定唇色）
+**示例1 调用返回成功（使用RGBA指定唇色）**
 ```
 https://fmu.tencentcloudapi.com/?Action=TryLipstickPic
 &Image=xxxxx
@@ -109,7 +109,7 @@ https://fmu.tencentcloudapi.com/?Action=TryLipstickPic
   }
 }
 ```
-- 示例2 调用返回成功（使用Lut素材modelid指定唇色）
+**示例2 调用返回成功（使用Lut素材modelid指定唇色）**
 - 输入
 ```
 https://fmu.tencentcloudapi.com/?Action=TryLipstickPic
@@ -129,7 +129,6 @@ https://fmu.tencentcloudapi.com/?Action=TryLipstickPic
 
 #### API2.使用比较分析 5%
 使用比较分析：在PRD文件中是否有说明且提供连结证据，所使用的API是查找过最适用的（主要竞争者无或比较次），如考量其成熟度丶性价比丶等等
-
 **性价比**
 
 腾讯云
@@ -143,6 +142,14 @@ https://fmu.tencentcloudapi.com/?Action=TryLipstickPic
 ![7203559626cf78daec468f8de457d92.png](https://upload-images.jianshu.io/upload_images/9513869-df91bda51af4b12b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![0dcbd8416e99a458ed55c57203ea5fd.png](https://upload-images.jianshu.io/upload_images/9513869-2f0216bbf560a783.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+ **使用比较分析**
+- 人脸识别api对比
+
+对比项|腾讯云|百度ai
+------|:-----------------------------------------------------------------|:---------------------------
+性价比|1.所有开通腾讯云人脸识别服务的客户，每月每种服务均有10000次的免费调用额度|调用量免费，以 QPS 维度来进行资源的赠送或购买。
+  .    |2.腾讯云人脸试妆服务目前处于限时**免费**公测阶段，您无需支付费用|若业务并发支持要求高，免费QPS不能满足，**额外购买**最低也需150元/月/QPS
+成熟度|腾讯云人脸比对在2017年的LFW测评准确度高达99.80%，识别准确率业界领先|人脸识别算法在最权威的公开评测比赛中排名世界领先
 
 #### API3.使用后风险报告 5%
 使用后风险报告：在PRD文件中是否有说明且提供连结证据，所使用的API类别的现在及未来发展性，如API市场竞争程度丶输入输出限制丶定价丶及可替代的程序库（改用自己开发的代码及数据库而不用API）等等
