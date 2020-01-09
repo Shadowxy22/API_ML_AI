@@ -1,6 +1,7 @@
 # API_ML_AI智能口红试色app 
 
 [(必要) 40x40秒的带narration 语音口白的Powerpoint ](https://pan.baidu.com/s/1oS7BXbGAXAWf6lcR8ylrCA)
+（需要保存到百度网盘才能完整观看）
 
 发布日期|2019年12月11日
 --------------|:-----------
